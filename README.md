@@ -82,8 +82,8 @@ A beginner-friendly investment platform focused on European markets, designed to
 4. **Install shadcn/ui components**
 
    ```bash
-   npx shadcn-ui@latest init
-   npx shadcn-ui@latest add card badge button skeleton
+   npx shadcn@latest init
+   npx shadcn@latest add card badge button skeleton
    ```
 
 5. **Run the development server**
@@ -169,28 +169,6 @@ Educational module system:
 1. Set up LibreChat instance (Docker recommended)
 2. Configure URL in environment variables
 3. Ensure CORS is properly configured
-
-## 🎨 Design System
-
-### Color Scheme
-
-- **Primary**: Blue tones for trust and reliability
-- **Success**: Green for positive changes and low risk
-- **Warning**: Orange/Yellow for medium risk
-- **Danger**: Red for negative changes and high risk
-
-### Typography
-
-- **Headers**: Bold, clear hierarchy
-- **Body**: Readable, beginner-friendly language
-- **Code**: Monospace for symbols and technical data
-
-### Components
-
-- **Cards**: Consistent padding and hover effects
-- **Badges**: Color-coded for risk levels and categories
-- **Buttons**: Clear call-to-action styling
-- **Loading States**: Skeleton components for better UX
 
 ## 🌍 Target Audience
 
