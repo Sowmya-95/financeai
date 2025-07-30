@@ -216,6 +216,12 @@ Educational module system:
 - Test all market data integrations
 - Ensure responsive design
 
----
+### When you clone FinanceAI repo with LibreChat submodule, run after clone:
+
+```bash
+git submodule update --init --recursive
+```
+
+## This will download LibreChat content into the librechat folder.
 
 **Made with ❤️ for European investors who want to start their investment journey without the complexity.**
