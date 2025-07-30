@@ -1,5 +1,7 @@
 # 📈 FinanceAI
 
+![FinanceAI Dashboard](./public/financeai.png)
+
 A beginner-friendly investment platform focused on European markets, designed to help non-financial users understand and start investing without the complexity of financial jargon.
 
 ## 🌟 Features
